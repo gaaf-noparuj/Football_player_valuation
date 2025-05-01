@@ -45,4 +45,6 @@ htmlcov/
 
 # Pyre
 .pyre/
+
+# Ignore all CSVs in the mining project folder
 mining project/*.csv
